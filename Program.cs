@@ -10,7 +10,7 @@ namespace Github_hello_world
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Midas");
             Console.WriteLine("Hello World");
             Console.WriteLine("Lesaaaannnn");
         }
