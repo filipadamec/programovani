@@ -12,7 +12,7 @@ namespace Github_hello_world
         {
             Console.WriteLine("Midas");
             Console.WriteLine("Hello World");
-            Console.WriteLine("Lesaaaannnn");
+            Console.WriteLine("Lesaaaanaaaaannn");
         }
     }
 }
